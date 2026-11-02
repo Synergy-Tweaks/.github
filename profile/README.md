@@ -16,3 +16,13 @@
   •
   <a href="https://github.com/Synergy-Tweaks/SynergyOS/discussions" target="_blank">💬 Discussions</a>
 </p>
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=synergy-tweaks%2Fsynergyos%2Csynergy-tweaks%2Fsyntoolkit&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=synergy-tweaks/synergyos%2Csynergy-tweaks/syntoolkit&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=synergy-tweaks/synergyos%2Csynergy-tweaks/syntoolkit&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=synergy-tweaks/synergyos%2Csynergy-tweaks/syntoolkit&type=date&legend=top-left" />
+ </picture>
+</a>
