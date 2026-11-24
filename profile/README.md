@@ -4,6 +4,8 @@
   <p align="center">
     <a href="https://github.com/Synergy-Tweaks/SynergyOS/releases" target="_blank"><img alt="Release" src="https://img.shields.io/github/release/Synergy-Tweaks/SynergyOS?style=for-the-badge&color=1A91FF" /></a>
     <img alt="Supported Versions" src="https://img.shields.io/badge/Windows%2011%20%26%2010-1a91ff?style=for-the-badge&logo=windows" />
+    <a href="https://github.com/Synergy-Tweaks/SynergyOS/releases" target="_blank"><img alt="Downloads" src="https://img.shields.io/github/downloads/Synergy-Tweaks/SynergyOS/total?style=for-the-badge&color=1A91FF&label=Downloads" /></a>
+
   </p>
 <p align="center"> The ONLY Windows Modification Playbook that Your PC Will Ever Need designed to optimize performance, privacy, and usability.</p>
 
